@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitute.Community.Protected", "NSubstitute.Community.Protected\NSubstitute.Community.Protected.csproj", "{396D072D-9A7A-407B-A1A8-9395E67577BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitute.Community.Protected.Tests", "NSubstitute.Community.Protected.Tests\NSubstitute.Community.Protected.Tests.csproj", "{16301167-8CF4-49E0-B963-8F4ECD3AC840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396D072D-9A7A-407B-A1A8-9395E67577BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396D072D-9A7A-407B-A1A8-9395E67577BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396D072D-9A7A-407B-A1A8-9395E67577BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396D072D-9A7A-407B-A1A8-9395E67577BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16301167-8CF4-49E0-B963-8F4ECD3AC840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16301167-8CF4-49E0-B963-8F4ECD3AC840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16301167-8CF4-49E0-B963-8F4ECD3AC840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16301167-8CF4-49E0-B963-8F4ECD3AC840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

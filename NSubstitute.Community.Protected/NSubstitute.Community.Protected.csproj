@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>netstandard2.0;net450</TargetFrameworks>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <PackageReference Include="NSubstitute" Version="4.0.0-*" />
+    </ItemGroup>
+</Project>
